@@ -25,8 +25,8 @@ Available at :  <b><i>[beefamily.tk)</i></b>
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 <ul>
-<li>Nikil Nikesh(CEO of Bee Family)</li>
-<li>Venuja Thilakarathna(Co-Owner of Bee Family)</li>
+<li>Nikil Nikesh (CEO of Bee Family)</li>
+<li>Venuja Thilakarathna (Co-Owner of Bee Family)</li>
 </ul>
 
 This project follows the [All Contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
